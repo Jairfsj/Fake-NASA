@@ -11,4 +11,4 @@ nav{
 nav a {color: #fff; text-decoration:none}
 nav ul {list-style:none; float:right;}
 nav ul li a {display:inline; margin-right:5px;}
-nav ul li a:hover{color: #ccc;} 
+nav ul li a:hover{color: #ccc; text-decoration:underline;} 
