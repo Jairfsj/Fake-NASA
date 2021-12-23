@@ -8,6 +8,5 @@ nav{
    padding: 25px;
 }
 
-nav a {color: #fff; text-decoration: none}
-
-
+nav a {color: #fff; text-decoration:none}
+nav ul {list-style:none; float:right;}
