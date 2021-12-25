@@ -16,21 +16,35 @@ nav ul li a:hover{color: #ccc; text-decoration:underline;}
 
 /* SECTION 1 */
 .section1 {
-   padding:800px; background: url("../img/bg.jpg");
-
+    padding:400px; 
+    background: url("../img/bg.jpg");
+    background-attachment: fixed;
 }
+.section1 h1 {
+     color:#fff; 
+     font-size:100px; 
+     text-align:center;
+     text-shadow: #000 2px 2px 2px;
+ }
+.section1 h3 {
+     color:#fff;
+     text-align:center;
+     text-shadow: #000 2px 2px 2px;
+ }
 
 /* SECTION 2 */
 .section2 {
-    padding: 200px; background: red;
+    padding: 200px; 
+    background: red;
 }
 
 /* SECTION 3 */
 .section3 {
-    padding: 200px
-    ; background: blue;
+    padding: 200px;
+    background: blue;
  }
  /* FOOTER */
  footer {
- padding: 25px; background:#111;
+    padding: 25px; 
+    background:#111;
  }
