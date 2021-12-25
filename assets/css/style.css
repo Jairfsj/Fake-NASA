@@ -16,7 +16,7 @@ nav ul li a:hover{color: #ccc; text-decoration:underline;}
 
 /* SECTION 1 */
 .section1 {
-    padding:400px; 
+    padding:390px; 
     background: url("../img/bg.jpg");
     background-attachment: fixed;
 }
@@ -30,6 +30,7 @@ nav ul li a:hover{color: #ccc; text-decoration:underline;}
      color:#fff;
      text-align:center;
      text-shadow: #000 2px 2px 2px;
+     font-size: 30px;
  }
 
 /* SECTION 2 */
