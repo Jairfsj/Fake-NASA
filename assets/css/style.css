@@ -5,6 +5,7 @@
 body {
      background: #fff;
      }
+@font-face: "Nasa.ttf";     
 
 /* NAV */
 nav{
@@ -16,12 +17,14 @@ nav{
 nav a {
      color: #fff; 
      text-decoration: none;
+     font-family: Nasa;
      }
 nav ul {
      list-style: none; 
      float:right;}
 nav ul li a {
      display: inline;
+     font-family: Nasa;
      margin-right:5px;
      }
 nav ul li a:hover{
@@ -39,23 +42,25 @@ nav ul li a:hover{
      color: #fff; 
      text-align: center;
      text-shadow: #000 2px 2px 2px;
+     font-family: Nasa;
  }
 .section1 h3 {
      color: #fff;
      text-align: center;
      text-shadow: #000 2px 2px 2px;
+     font-family: Nasa;
      }
 
 /* SECTION 2 */
 .section2 {
      padding: 200px; 
-     background: red;
+     background: #483d58;
 }
 
 /* SECTION 3 */
 .section3 {
      padding: 200px;
-     background: blue;
+     background: #fff;
  }
  /* FOOTER */
  footer {
