@@ -55,6 +55,15 @@ nav ul li a:hover{
 .section2 {
      padding: 200px; 
      background: #483d58;
+     color: #fff;
+     text-align: center;
+}
+.section2 h1{
+     font-size: 50px;
+}
+.section2 p {
+     margin-top: 15px;
+     
 }
 
 /* SECTION 3 */
