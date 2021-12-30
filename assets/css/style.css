@@ -65,6 +65,7 @@ nav ul li a:hover{
 }
 .section2 p {
      margin-top: 15px;
+     text-align: left;
      
 }
 
@@ -81,5 +82,17 @@ nav ul li a:hover{
 @media screen and (min-width: 768px){
      section1 {
      padding: 400px;
+     }
+     section1 h1 {
+         color: #fff; 
+         font-size: 100px;
+         text-align: center;
+         text-shadow: #000 4px 4px 4px;
+     }
+     section1 h3 {
+         color: #fff;
+         text-align: center;
+         text-shadow: #000 4px 4px 4px;
+         font-size: 30px;
      }
  }
