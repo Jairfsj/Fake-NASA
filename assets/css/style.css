@@ -39,6 +39,7 @@ nav ul li a:hover{
      padding: 100px;
 }
 .section1 h1 {
+     font-size: 70px;
      color: #fff; 
      text-align: center;
      text-shadow: #000 2px 2px 2px;
@@ -60,6 +61,7 @@ nav ul li a:hover{
 }
 .section2 h1{
      font-size: 50px;
+     text-shadow: #000 4px 4px 4px;
 }
 .section2 p {
      margin-top: 15px;
